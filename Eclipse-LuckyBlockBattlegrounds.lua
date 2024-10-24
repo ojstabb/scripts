@@ -139,7 +139,7 @@ if game.PlaceId == 662417684 then
         end
     })
 
-    -- Settings Tab --
+    -- settings tab
     
     local SettingsTab = Window:MakeTab({
         Name = "Settings",
