@@ -1,4 +1,4 @@
--- RunStar Simulator
+-- LuckyBlockBattlegrounds
 
 if game.PlaceId == 662417684 then
     local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
